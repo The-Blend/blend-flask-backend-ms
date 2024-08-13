@@ -1,0 +1,22 @@
+{
+  "name": "blend-backend-py",
+  "version": "1.0.0",
+  "description": "Use Python >=3.7.0, <3.11;",
+  "main": "geminiApi.js",
+  "scripts": {
+    "test": "num run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Blend/blend-flask-backend-ms.git"
+  },
+  "keywords": [
+    "blend-py"
+  ],
+  "author": "Nimalesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Blend/blend-flask-backend-ms/issues"
+  },
+  "homepage": "https://github.com/The-Blend/blend-flask-backend-ms#readme"
+}
